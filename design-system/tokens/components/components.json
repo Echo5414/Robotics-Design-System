@@ -1,0 +1,223 @@
+{
+  "$schema": "https://design-tokens.org/schemas/v1.0.0/design-tokens.schema.json",
+  "$description": "Components tokens",
+  "button": {
+    "primary": {
+      "background": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.brand.primary-600}"
+        },
+        "$description": "Primary button background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.brand.primary-600"
+          }
+        }
+      },
+      "background-hover": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.brand.primary-700}"
+        },
+        "$description": "Primary button hover",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.brand.primary-700"
+          }
+        }
+      },
+      "background-active": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.brand.primary-800}"
+        },
+        "$description": "Primary button active",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.brand.primary-800"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Primary button text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.brand.primary-600}"
+        },
+        "$description": "Primary button border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.brand.primary-600"
+          }
+        }
+      }
+    },
+    "secondary": {
+      "background": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Secondary button background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "background-hover": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Secondary button hover",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.semantic.text-default}"
+        },
+        "$description": "Secondary button text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.semantic.text-default"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.semantic.border-default}"
+        },
+        "$description": "Secondary button border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.semantic.border-default"
+          }
+        }
+      }
+    },
+    "ghost": {
+      "background": {
+        "$type": "color",
+        "$value": {
+          "value": "transparent"
+        },
+        "$description": "Ghost button background"
+      },
+      "background-hover": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Ghost button hover",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.semantic.text-default}"
+        },
+        "$description": "Ghost button text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.semantic.text-default"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": {
+          "value": "transparent"
+        },
+        "$description": "Ghost button border"
+      }
+    },
+    "danger": {
+      "background": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.status.danger-600}"
+        },
+        "$description": "Danger button background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.status.danger-600"
+          }
+        }
+      },
+      "background-hover": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.status.danger-700}"
+        },
+        "$description": "Danger button hover",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.status.danger-700"
+          }
+        }
+      },
+      "text": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Danger button text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "border": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.status.danger-600}"
+        },
+        "$description": "Danger button border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.status.danger-600"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "$schema": "https://design-tokens.org/schemas/v1.0.0/design-tokens.schema.json",
+  "$description": "Themes tokens",
+  "theme": {
+    "dark": {
+      "background-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-950}"
+        },
+        "$description": "dark theme background-default override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-950"
+          }
+        }
+      },
+      "background-inverse": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "dark theme background-inverse override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "background-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-750}"
+        },
+        "$description": "dark theme background-muted override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-750"
+          }
+        }
+      },
+      "background-subtle": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-800}"
+        },
+        "$description": "dark theme background-subtle override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-800"
+          }
+        }
+      },
+      "border-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-700}"
+        },
+        "$description": "dark theme border-default override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-700"
+          }
+        }
+      },
+      "border-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-750}"
+        },
+        "$description": "dark theme border-muted override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-750"
+          }
+        }
+      },
+      "border-strong": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "dark theme border-strong override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "surface-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-800}"
+        },
+        "$description": "dark theme surface-default override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-800"
+          }
+        }
+      },
+      "surface-overlay": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-750}"
+        },
+        "$description": "dark theme surface-overlay override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-750"
+          }
+        }
+      },
+      "surface-raised": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-750}"
+        },
+        "$description": "dark theme surface-raised override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-750"
+          }
+        }
+      },
+      "text-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "dark theme text-default override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text-inverse": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-950}"
+        },
+        "$description": "dark theme text-inverse override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-950"
+          }
+        }
+      },
+      "text-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "dark theme text-muted override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text-secondary": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "dark theme text-secondary override",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      }
+    },
+    "light": {
+      "background-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme default background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "background-subtle": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme subtle background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "background-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme muted background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "background-inverse": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-800}"
+        },
+        "$description": "Light theme inverse background",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-800"
+          }
+        }
+      },
+      "surface-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme default surface",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "surface-raised": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme raised surface",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "surface-overlay": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme overlay surface",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "border-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme default border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "border-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme muted border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "border-strong": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme strong border",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text-default": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-800}"
+        },
+        "$description": "Light theme default text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-800"
+          }
+        }
+      },
+      "text-secondary": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-500}"
+        },
+        "$description": "Light theme secondary text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-500"
+          }
+        }
+      },
+      "text-muted": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme muted text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      },
+      "text-inverse": {
+        "$type": "color",
+        "$value": {
+          "value": "{color.neutrals.neutral-100}"
+        },
+        "$description": "Light theme inverse text",
+        "$extensions": {
+          "opensystem": {
+            "isAlias": true,
+            "aliasPath": "color.neutrals.neutral-100"
+          }
+        }
+      }
+    }
+  }
+}
