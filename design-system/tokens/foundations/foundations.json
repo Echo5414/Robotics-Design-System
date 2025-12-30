@@ -466,7 +466,7 @@
       "accent-900": {
         "$type": "color",
         "$value": {
-          "value": "#33322e"
+          "value": "#e9642b"
         },
         "$description": "Darkest accent"
       }
