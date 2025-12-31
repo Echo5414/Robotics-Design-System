@@ -1,38 +1,21 @@
 {
   "schemaVersion": "1.0.0",
-  "version": "0.0.2",
-  "generatedAt": "2025-12-31T00:25:36.418Z",
+  "version": "0.3.17",
+  "generatedAt": "2025-12-31T00:29:34.237Z",
   "project": {
-    "name": "Redesign",
-    "slug": "redesign",
-    "documentId": "cbj427vfm6tqb34unf4b4mb7"
+    "name": "OpenSystem Core",
+    "slug": "opensystem-core",
+    "documentId": "i8yn7e7615s0om485nblpt46"
   },
   "organization": {
-    "name": "Neura",
-    "slug": "neura"
+    "name": "OpenSystem",
+    "slug": "opensystem"
   },
   "s3": {
     "bucket": "opensystem-assets",
     "endpoint": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com",
     "publicBaseUrl": null
   },
-  "assets": {
-    "icons/LilJohn.svg": {
-      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/icons/LilJohn_ff73ef7d.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T002423Z&X-Amz-Expires=86400&X-Amz-Signature=85c0878e1d7d8f5f90da8bdb931eb68ac615327a4e1e1a538e95744bc5de34e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-      "s3Key": "neura/redesign/icons/LilJohn_ff73ef7d.svg",
-      "localPath": "assets/icons/LilJohn.svg",
-      "mime": "image/svg+xml",
-      "size": 1759,
-      "hash": "sha256:ff73ef7debb5d95ab67e90653628466d5d4307d0b9d80bd463a5d98b0c291766",
-      "width": 300,
-      "height": 88,
-      "assetType": "icon"
-    }
-  },
-  "categories": {
-    "icon": {
-      "count": 1,
-      "totalSize": 1759
-    }
-  }
+  "assets": {},
+  "categories": {}
 }
