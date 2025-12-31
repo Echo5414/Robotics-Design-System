@@ -1,21 +1,53 @@
 {
   "schemaVersion": "1.0.0",
-  "version": "0.3.18",
-  "generatedAt": "2025-12-31T00:49:25.615Z",
+  "version": "0.0.4",
+  "generatedAt": "2025-12-31T01:09:06.361Z",
   "project": {
-    "name": "OpenSystem Core",
-    "slug": "opensystem-core",
-    "documentId": "i8yn7e7615s0om485nblpt46"
+    "name": "Redesign",
+    "slug": "redesign",
+    "documentId": "cbj427vfm6tqb34unf4b4mb7"
   },
   "organization": {
-    "name": "OpenSystem",
-    "slug": "opensystem"
+    "name": "Neura",
+    "slug": "neura"
   },
   "s3": {
     "bucket": "opensystem-assets",
     "endpoint": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com",
-    "publicBaseUrl": null
+    "publicBaseUrl": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets"
   },
-  "assets": {},
-  "categories": {}
+  "assets": {
+    "corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg",
+      "s3Key": "neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg",
+      "localPath": "assets/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg",
+      "mime": "image/jpeg",
+      "size": 44732,
+      "hash": "sha256:ec51a37cf6208a286feb7586517ac364efba462a4ca53a144b40d97c74cf2752",
+      "width": 1023,
+      "height": 1023,
+      "assetType": "image"
+    },
+    "icons/LilJohn.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/icons/LilJohn_ff73ef7d.svg",
+      "s3Key": "neura/redesign/icons/LilJohn_ff73ef7d.svg",
+      "localPath": "assets/icons/LilJohn.svg",
+      "mime": "image/svg+xml",
+      "size": 1759,
+      "hash": "sha256:ff73ef7debb5d95ab67e90653628466d5d4307d0b9d80bd463a5d98b0c291766",
+      "width": 300,
+      "height": 88,
+      "assetType": "icon"
+    }
+  },
+  "categories": {
+    "image": {
+      "count": 1,
+      "totalSize": 44732
+    },
+    "icon": {
+      "count": 1,
+      "totalSize": 1759
+    }
+  }
 }
