@@ -1,21 +1,53 @@
 {
   "schemaVersion": "1.0.0",
-  "version": "0.3.17",
-  "generatedAt": "2025-12-31T00:29:34.237Z",
+  "version": "0.0.3",
+  "generatedAt": "2025-12-31T00:46:54.372Z",
   "project": {
-    "name": "OpenSystem Core",
-    "slug": "opensystem-core",
-    "documentId": "i8yn7e7615s0om485nblpt46"
+    "name": "Redesign",
+    "slug": "redesign",
+    "documentId": "cbj427vfm6tqb34unf4b4mb7"
   },
   "organization": {
-    "name": "OpenSystem",
-    "slug": "opensystem"
+    "name": "Neura",
+    "slug": "neura"
   },
   "s3": {
     "bucket": "opensystem-assets",
     "endpoint": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com",
     "publicBaseUrl": null
   },
-  "assets": {},
-  "categories": {}
+  "assets": {
+    "corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T004551Z&X-Amz-Expires=86400&X-Amz-Signature=8540599ca0d3776bdd1a2aca5545ef6a0ccf050ac9eb0e60b7a288a4d8ef3f98&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg",
+      "localPath": "assets/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg",
+      "mime": "image/jpeg",
+      "size": 44732,
+      "hash": "sha256:ec51a37cf6208a286feb7586517ac364efba462a4ca53a144b40d97c74cf2752",
+      "width": 1023,
+      "height": 1023,
+      "assetType": "image"
+    },
+    "icons/LilJohn.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/icons/LilJohn_ff73ef7d.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T002423Z&X-Amz-Expires=86400&X-Amz-Signature=85c0878e1d7d8f5f90da8bdb931eb68ac615327a4e1e1a538e95744bc5de34e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "neura/redesign/icons/LilJohn_ff73ef7d.svg",
+      "localPath": "assets/icons/LilJohn.svg",
+      "mime": "image/svg+xml",
+      "size": 1759,
+      "hash": "sha256:ff73ef7debb5d95ab67e90653628466d5d4307d0b9d80bd463a5d98b0c291766",
+      "width": 300,
+      "height": 88,
+      "assetType": "icon"
+    }
+  },
+  "categories": {
+    "image": {
+      "count": 1,
+      "totalSize": 44732
+    },
+    "icon": {
+      "count": 1,
+      "totalSize": 1759
+    }
+  }
 }
