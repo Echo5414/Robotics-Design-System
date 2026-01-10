@@ -1,10 +1,10 @@
 {
   "schemaVersion": "1.0.0",
-  "version": "0.0.4",
-  "generatedAt": "2025-12-31T01:09:06.361Z",
+  "version": "0.0.5",
+  "generatedAt": "2026-01-10T14:45:55.903Z",
   "project": {
-    "name": "Redesign",
-    "slug": "redesign",
+    "name": "ORI",
+    "slug": "ori",
     "documentId": "cbj427vfm6tqb34unf4b4mb7"
   },
   "organization": {
@@ -18,7 +18,7 @@
   },
   "assets": {
     "corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg": {
-      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg",
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T004551Z&X-Amz-Expires=86400&X-Amz-Signature=8540599ca0d3776bdd1a2aca5545ef6a0ccf050ac9eb0e60b7a288a4d8ef3f98&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "s3Key": "neura/redesign/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98_ec51a37c.jpg",
       "localPath": "assets/corporate/images/1390586cdcc8ee95e1d834ddcd1f9d98.jpg",
       "mime": "image/jpeg",
@@ -28,8 +28,19 @@
       "height": 1023,
       "assetType": "image"
     },
+    "corporate/images/20241227133734_1.jpg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/corporate/images/20241227133734_1_af03da87.jpg",
+      "s3Key": "neura/redesign/corporate/images/20241227133734_1_af03da87.jpg",
+      "localPath": "assets/corporate/images/20241227133734_1.jpg",
+      "mime": "image/jpeg",
+      "size": 1099560,
+      "hash": "sha256:af03da87bda732080e527f268c515516cbf1148ce9650b3b3b811f8e0d14c87b",
+      "width": 3840,
+      "height": 2160,
+      "assetType": "image"
+    },
     "icons/LilJohn.svg": {
-      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/icons/LilJohn_ff73ef7d.svg",
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/neura/redesign/icons/LilJohn_ff73ef7d.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T002423Z&X-Amz-Expires=86400&X-Amz-Signature=85c0878e1d7d8f5f90da8bdb931eb68ac615327a4e1e1a538e95744bc5de34e9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "s3Key": "neura/redesign/icons/LilJohn_ff73ef7d.svg",
       "localPath": "assets/icons/LilJohn.svg",
       "mime": "image/svg+xml",
@@ -42,8 +53,8 @@
   },
   "categories": {
     "image": {
-      "count": 1,
-      "totalSize": 44732
+      "count": 2,
+      "totalSize": 1144292
     },
     "icon": {
       "count": 1,
