@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "version": "0.3.19",
-  "generatedAt": "2026-01-10T14:55:55.559Z",
+  "version": "0.3.2",
+  "generatedAt": "2026-01-10T16:06:43.693Z",
   "project": {
     "name": "OpenSystem Core",
     "slug": "opensystem-core",
@@ -16,6 +16,378 @@
     "endpoint": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com",
     "publicBaseUrl": null
   },
-  "assets": {},
-  "categories": {}
+  "assets": {
+    "customer/nasa/druckdaten/2019-12-30_Ref-Guru_Flyer_Korrektur.pdf": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/customer/nasa/druckdaten/2019-12-30_Ref-Guru_Flyer_Korrektur_118ed76d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T160529Z&X-Amz-Expires=86400&X-Amz-Signature=2a03bb62b37156c563729c18f205c6d4f43e325b06e8371916522898f5fbf882&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/customer/nasa/druckdaten/2019-12-30_Ref-Guru_Flyer_Korrektur_118ed76d.pdf",
+      "localPath": "assets/customer/nasa/druckdaten/2019-12-30_Ref-Guru_Flyer_Korrektur.pdf",
+      "mime": "application/pdf",
+      "size": 1494319,
+      "hash": "sha256:118ed76d38172be0089807406a33f09bf044c7f63f8f765cec4f4e5260d6b4e8",
+      "assetType": "other"
+    },
+    "images/30879_1_ef579ef034.webp": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/images/30879_1_ef579ef034_9ae42ae3.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150254Z&X-Amz-Expires=86400&X-Amz-Signature=d9dc47852db6a335506c7ea4e074cc24943950990e760c1b4a7ad656bcbca6a6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/images/30879_1_ef579ef034_9ae42ae3.webp",
+      "localPath": "assets/images/30879_1_ef579ef034.webp",
+      "mime": "image/webp",
+      "size": 87858,
+      "hash": "sha256:9ae42ae3e8b5eec99cc9400e66ffc327b0d6874d10f0f8251d3a874c1af2f4ac",
+      "width": 1600,
+      "height": 1280,
+      "assetType": "image"
+    },
+    "brand/4d83ed6d-f4f6-45f0-994e-b850e58bf25b.png": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/brand/4d83ed6d-f4f6-45f0-994e-b850e58bf25b_b64837e1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T145750Z&X-Amz-Expires=86400&X-Amz-Signature=31fb87f6f3a437bf98de5a1e27f3ee0ee302740e39559b8019878f3cf26822b6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/brand/4d83ed6d-f4f6-45f0-994e-b850e58bf25b_b64837e1.png",
+      "localPath": "assets/brand/4d83ed6d-f4f6-45f0-994e-b850e58bf25b.png",
+      "mime": "image/png",
+      "size": 2234739,
+      "hash": "sha256:b64837e1cdcf5c4a6d0bf1ed0f4749e8e68182cd2a058c1d8acc91da57160e60",
+      "width": 1536,
+      "height": 1024,
+      "assetType": "image"
+    },
+    "icons/activity_03_97a7b7ab0f.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/activity_03_97a7b7ab0f_da227971.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150232Z&X-Amz-Expires=86400&X-Amz-Signature=a59b2364ca5378b256fb67360ef5bff2c8ae72c4d1e9db041b56fbb0e1b1cdd9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/activity_03_97a7b7ab0f_da227971.svg",
+      "localPath": "assets/icons/activity_03_97a7b7ab0f.svg",
+      "mime": "image/svg+xml",
+      "size": 382,
+      "hash": "sha256:da22797131ea9e6e344b6181dc7a9770f93bf58b9fe94a61b1b8b89f945981e9",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/archive_02_1359aaf4b1.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/archive_02_1359aaf4b1_f89ed4b4.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150232Z&X-Amz-Expires=86400&X-Amz-Signature=6cb2f2e6e7c78fea88a4fc2fec1e5d6b30242fe35a80c2026fb1f3d5364ee354&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/archive_02_1359aaf4b1_f89ed4b4.svg",
+      "localPath": "assets/icons/archive_02_1359aaf4b1.svg",
+      "mime": "image/svg+xml",
+      "size": 797,
+      "hash": "sha256:f89ed4b4f43e6a674001edadcec21528bec12508ef4fb03c74e20857c7c88453",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/arrow_down_01_b9a2e1e0e2.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/arrow_down_01_b9a2e1e0e2_3e44b39e.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150232Z&X-Amz-Expires=86400&X-Amz-Signature=7dbd1413b1e8c377637f5507c9a898e3a720f4d30c077ca152316b596d4e94a6&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/arrow_down_01_b9a2e1e0e2_3e44b39e.svg",
+      "localPath": "assets/icons/arrow_down_01_b9a2e1e0e2.svg",
+      "mime": "image/svg+xml",
+      "size": 205,
+      "hash": "sha256:3e44b39e0179621b96640c79ac2d63a1016c42c46260ff87e716a7fee7b7392b",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/dashboard_circle_9adbfe25ee.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/dashboard_circle_9adbfe25ee_47552ec3.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150233Z&X-Amz-Expires=86400&X-Amz-Signature=eead716020152e5199017250b9be3337898d1795c3b8a82bfec61296062e0478&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/dashboard_circle_9adbfe25ee_47552ec3.svg",
+      "localPath": "assets/icons/dashboard_circle_9adbfe25ee.svg",
+      "mime": "image/svg+xml",
+      "size": 368,
+      "hash": "sha256:47552ec30a73c1c1131930e8d2e48e78c60260d687171ae6494bcd2d3c49ad58",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "geist_mono_cyrillic_400_normal_3c7e310739.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_cyrillic_400_normal_3c7e310739_9e97905f.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150826Z&X-Amz-Expires=86400&X-Amz-Signature=175131cde7e703741bff1de4169ca30124b9137d10382d60a9ca61c66396bfcf&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_cyrillic_400_normal_3c7e310739_9e97905f.woff",
+      "localPath": "assets/geist_mono_cyrillic_400_normal_3c7e310739.woff",
+      "mime": "application/font-woff",
+      "size": 7164,
+      "hash": "sha256:9e97905f0663eab927bcaa72b4e5b844bfa980ada3f894ff92052ec7ed2d8c03",
+      "assetType": "font"
+    },
+    "geist_mono_cyrillic_400_normal_e2ad0c7172.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_cyrillic_400_normal_e2ad0c7172_259b63d9.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150827Z&X-Amz-Expires=86400&X-Amz-Signature=ce48d8d2787f55c8b03ac63b3aa077c207745fc65e876959da158fe8cc14f7b0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_cyrillic_400_normal_e2ad0c7172_259b63d9.woff2",
+      "localPath": "assets/geist_mono_cyrillic_400_normal_e2ad0c7172.woff2",
+      "mime": "font/woff2",
+      "size": 5460,
+      "hash": "sha256:259b63d9a2dcdf449b73f46624e409de1d62a51134e884d3f4af1242736cde10",
+      "assetType": "font"
+    },
+    "geist_mono_cyrillic_500_normal_65db36b1b3.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_cyrillic_500_normal_65db36b1b3_7658c033.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150827Z&X-Amz-Expires=86400&X-Amz-Signature=759a71adfcd2b0e2ab369b3dfad865068510049037261e8e6e0fddd4d61405ad&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_cyrillic_500_normal_65db36b1b3_7658c033.woff2",
+      "localPath": "assets/geist_mono_cyrillic_500_normal_65db36b1b3.woff2",
+      "mime": "font/woff2",
+      "size": 5664,
+      "hash": "sha256:7658c0334d535cb16b87a4b11c16bb3b33fbdbfb3316089024e4b6396d2088d8",
+      "assetType": "font"
+    },
+    "geist_mono_cyrillic_500_normal_961c0add1f.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_cyrillic_500_normal_961c0add1f_8610736a.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150828Z&X-Amz-Expires=86400&X-Amz-Signature=c59e4a38c57929a186d0827b925d434dadd424a0b7dfdd3a46046b022f9fc963&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_cyrillic_500_normal_961c0add1f_8610736a.woff",
+      "localPath": "assets/geist_mono_cyrillic_500_normal_961c0add1f.woff",
+      "mime": "application/font-woff",
+      "size": 7352,
+      "hash": "sha256:8610736aee6247aa382fe589916a6840669f845c0a9c2c75309ca8de265fce5a",
+      "assetType": "font"
+    },
+    "geist_mono_latin_400_normal_c4e52b8f05.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_400_normal_c4e52b8f05_616e37ca.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150828Z&X-Amz-Expires=86400&X-Amz-Signature=6e1ac5f33e2270d1b967d519ca55d7f872c60752c5a2e2b8fe21dfda55e592f3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_400_normal_c4e52b8f05_616e37ca.woff2",
+      "localPath": "assets/geist_mono_latin_400_normal_c4e52b8f05.woff2",
+      "mime": "font/woff2",
+      "size": 14712,
+      "hash": "sha256:616e37ca59a2afebe306751773a538b93f5a2d9a90fd3fc97ce73321cb93af51",
+      "assetType": "font"
+    },
+    "geist_mono_latin_400_normal_ed387fda45.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_400_normal_ed387fda45_af2a06fc.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150828Z&X-Amz-Expires=86400&X-Amz-Signature=2295cdbe5539e11bee14514aab440e9cebedd968b9f46b3f6ba902c334423822&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_400_normal_ed387fda45_af2a06fc.woff",
+      "localPath": "assets/geist_mono_latin_400_normal_ed387fda45.woff",
+      "mime": "application/font-woff",
+      "size": 19168,
+      "hash": "sha256:af2a06fc6940abff35305a96ce4e2f69c2934106339b488b8cb85ca6f136dfff",
+      "assetType": "font"
+    },
+    "geist_mono_latin_500_normal_2dfb4fb14e.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_500_normal_2dfb4fb14e_9a494764.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150828Z&X-Amz-Expires=86400&X-Amz-Signature=2a7c2f797d70ff8bb29d57e00ee876ab3804d0d342857de2c30848509f0e2b4e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_500_normal_2dfb4fb14e_9a494764.woff2",
+      "localPath": "assets/geist_mono_latin_500_normal_2dfb4fb14e.woff2",
+      "mime": "font/woff2",
+      "size": 15304,
+      "hash": "sha256:9a494764f87c2e11d24001b910600bd2192230554c090a0ddc66e8221b32f3ce",
+      "assetType": "font"
+    },
+    "geist_mono_latin_500_normal_3dfda5b15b.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_500_normal_3dfda5b15b_f1bb62c2.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150829Z&X-Amz-Expires=86400&X-Amz-Signature=150a84e932a595c848a33b48ab9190c383b63c6731e2cb067acdef6815188521&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_500_normal_3dfda5b15b_f1bb62c2.woff",
+      "localPath": "assets/geist_mono_latin_500_normal_3dfda5b15b.woff",
+      "mime": "application/font-woff",
+      "size": 19640,
+      "hash": "sha256:f1bb62c2afc4d11971ce14215efb12b012f6cd42a570161935fb2136e8dce26e",
+      "assetType": "font"
+    },
+    "geist_mono_latin_ext_400_normal_55d36263fa.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_ext_400_normal_55d36263fa_7f4a5d3c.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150829Z&X-Amz-Expires=86400&X-Amz-Signature=df6dd3c1e34b5315a975f21bcb5cb95920c404302b516fb2346682d82e4330eb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_ext_400_normal_55d36263fa_7f4a5d3c.woff2",
+      "localPath": "assets/geist_mono_latin_ext_400_normal_55d36263fa.woff2",
+      "mime": "font/woff2",
+      "size": 6424,
+      "hash": "sha256:7f4a5d3c1cdf8a5bc8deb47b85606a5486d5159d42eba048bae9583c4d085cd0",
+      "assetType": "font"
+    },
+    "geist_mono_latin_ext_400_normal_eb6c55451c.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_ext_400_normal_eb6c55451c_9f73a257.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150829Z&X-Amz-Expires=86400&X-Amz-Signature=11ee4e8ba3724fa15cde8ac663cd8712c02b1ea5fba5a0abc426492b474ef8f0&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_ext_400_normal_eb6c55451c_9f73a257.woff",
+      "localPath": "assets/geist_mono_latin_ext_400_normal_eb6c55451c.woff",
+      "mime": "application/font-woff",
+      "size": 8744,
+      "hash": "sha256:9f73a257660b9605fd3fae18eec73f1813da5d4e06638f5f7d2b155750530185",
+      "assetType": "font"
+    },
+    "geist_mono_latin_ext_500_normal_06cbca5990.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_ext_500_normal_06cbca5990_a27469c0.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150829Z&X-Amz-Expires=86400&X-Amz-Signature=216389aa3d82e120c0096025e59634cedfe2d099bfe379c6d0068307421cff09&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_ext_500_normal_06cbca5990_a27469c0.woff2",
+      "localPath": "assets/geist_mono_latin_ext_500_normal_06cbca5990.woff2",
+      "mime": "font/woff2",
+      "size": 6500,
+      "hash": "sha256:a27469c0e3da3e5eef1ca0b9bfea9385581e8d21d46e80f75da40d8d4af23a58",
+      "assetType": "font"
+    },
+    "geist_mono_latin_ext_500_normal_8638c7089b.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_mono_latin_ext_500_normal_8638c7089b_f43106c7.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150829Z&X-Amz-Expires=86400&X-Amz-Signature=373e12e1015a7766e047c11708fad57e2d018c83c57decadd28941e7c6f07d01&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_mono_latin_ext_500_normal_8638c7089b_f43106c7.woff",
+      "localPath": "assets/geist_mono_latin_ext_500_normal_8638c7089b.woff",
+      "mime": "application/font-woff",
+      "size": 8856,
+      "hash": "sha256:f43106c7a10dad51d3707aaf6fda997f707a6ec80dd217297f31cd6c86c4b010",
+      "assetType": "font"
+    },
+    "geist_sans_latin_400_normal_0c5f5c9e44.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_400_normal_0c5f5c9e44_e6ef6abb.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150830Z&X-Amz-Expires=86400&X-Amz-Signature=2cba4ca5d42dde193e0b6843294758934cd4a5387168f741409cb998406ba718&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_400_normal_0c5f5c9e44_e6ef6abb.woff2",
+      "localPath": "assets/geist_sans_latin_400_normal_0c5f5c9e44.woff2",
+      "mime": "font/woff2",
+      "size": 33400,
+      "hash": "sha256:e6ef6abb39c762ed2259cc814e6f16888c540cd84835962227b56ab2354f27f1",
+      "assetType": "font"
+    },
+    "geist_sans_latin_400_normal_e9eb0adc41.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_400_normal_e9eb0adc41_b2f5931f.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150830Z&X-Amz-Expires=86400&X-Amz-Signature=3f1fad2f09ecf68f3d442b2a7c198d265d6aeed80aaa30ae8b793f534139c67b&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_400_normal_e9eb0adc41_b2f5931f.woff",
+      "localPath": "assets/geist_sans_latin_400_normal_e9eb0adc41.woff",
+      "mime": "application/font-woff",
+      "size": 38912,
+      "hash": "sha256:b2f5931f1a903bcc64af96ee41b3fed53a8ce74e9261181931a680a50560485b",
+      "assetType": "font"
+    },
+    "geist_sans_latin_500_normal_0b6c3e9fb4.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_500_normal_0b6c3e9fb4_40073e90.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150830Z&X-Amz-Expires=86400&X-Amz-Signature=3929594caf38f2924c49b093b0b9f50aec08bc325f56da1a3a8054a08d2ce3ac&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_500_normal_0b6c3e9fb4_40073e90.woff2",
+      "localPath": "assets/geist_sans_latin_500_normal_0b6c3e9fb4.woff2",
+      "mime": "font/woff2",
+      "size": 34716,
+      "hash": "sha256:40073e90816315c92e4f4381bd50b6fdc950b22b0dd010a4179046cf588d4f12",
+      "assetType": "font"
+    },
+    "geist_sans_latin_500_normal_fbd3836ee7.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_500_normal_fbd3836ee7_5d679b87.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150830Z&X-Amz-Expires=86400&X-Amz-Signature=65596dcdb70e0f0a9ebc48d698551ffe5c4b45c32c8fdb1625d2b63b4e4fa7ba&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_500_normal_fbd3836ee7_5d679b87.woff",
+      "localPath": "assets/geist_sans_latin_500_normal_fbd3836ee7.woff",
+      "mime": "application/font-woff",
+      "size": 40520,
+      "hash": "sha256:5d679b8796eed440d6e7e2e94c37390b82f9db77aa92cfc21e96a1cdeecfba3d",
+      "assetType": "font"
+    },
+    "geist_sans_latin_600_normal_78e9adabd0.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_600_normal_78e9adabd0_9d99fbd7.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150831Z&X-Amz-Expires=86400&X-Amz-Signature=0ff93c5a1a46baae819a24e54d735d793c7b567da583a9ccf25fb0bf284b6ec2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_600_normal_78e9adabd0_9d99fbd7.woff2",
+      "localPath": "assets/geist_sans_latin_600_normal_78e9adabd0.woff2",
+      "mime": "font/woff2",
+      "size": 35292,
+      "hash": "sha256:9d99fbd791968493fa507ac846de561cee47b00f8100c23cad333b3cb78392d6",
+      "assetType": "font"
+    },
+    "geist_sans_latin_600_normal_914793a9f4.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_600_normal_914793a9f4_3903ed76.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150831Z&X-Amz-Expires=86400&X-Amz-Signature=f1a5fc3fb6ddbee2b1ba762f052c4f425d90da16e2f36de5dbe176da39f3f1ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_600_normal_914793a9f4_3903ed76.woff",
+      "localPath": "assets/geist_sans_latin_600_normal_914793a9f4.woff",
+      "mime": "application/font-woff",
+      "size": 41204,
+      "hash": "sha256:3903ed7633d563de34bbbf609e869a878e4b4081a25011a195b7a80043ecafe9",
+      "assetType": "font"
+    },
+    "geist_sans_latin_700_normal_29d96d766e.woff2": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_700_normal_29d96d766e_3d59addf.woff2?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150831Z&X-Amz-Expires=86400&X-Amz-Signature=3f22c4c13a66c36e97b9f2c645c31c64ea0cc2f319f0eaf4775b928f737763f7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_700_normal_29d96d766e_3d59addf.woff2",
+      "localPath": "assets/geist_sans_latin_700_normal_29d96d766e.woff2",
+      "mime": "font/woff2",
+      "size": 35484,
+      "hash": "sha256:3d59addfafec3452d44717aa0a18911d5c3812487ed06af47f2ef27192ea1eed",
+      "assetType": "font"
+    },
+    "geist_sans_latin_700_normal_bd151fa2dd.woff": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/geist_sans_latin_700_normal_bd151fa2dd_a25e1620.woff?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150831Z&X-Amz-Expires=86400&X-Amz-Signature=119b78cba08f53b92bbb5d46fe412641a76f42463da392ca2264857e2fa60ddb&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/geist_sans_latin_700_normal_bd151fa2dd_a25e1620.woff",
+      "localPath": "assets/geist_sans_latin_700_normal_bd151fa2dd.woff",
+      "mime": "application/font-woff",
+      "size": 41396,
+      "hash": "sha256:a25e16202a8cd74d4a149b97d69262582e23ae59abfde1cee1a051ba5c41622a",
+      "assetType": "font"
+    },
+    "icons/gitbook_73a402e48b.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/gitbook_73a402e48b_a6d6f275.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150233Z&X-Amz-Expires=86400&X-Amz-Signature=443a056472520e80bd58f97fefe05afba2bde472c67befe9cc127d3e5f1fe10e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/gitbook_73a402e48b_a6d6f275.svg",
+      "localPath": "assets/icons/gitbook_73a402e48b.svg",
+      "mime": "image/svg+xml",
+      "size": 460,
+      "hash": "sha256:a6d6f275270033bf397fc96c0a89d969492dc5944e911cf40447bcb5ce24c55a",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/github_a3cd371890.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/github_a3cd371890_be8f8317.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150233Z&X-Amz-Expires=86400&X-Amz-Signature=98f159a0b9f3902c20cb49370d28d694253fcf5e1ada2e5b0b994a16364f8f13&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/github_a3cd371890_be8f8317.svg",
+      "localPath": "assets/icons/github_a3cd371890.svg",
+      "mime": "image/svg+xml",
+      "size": 821,
+      "hash": "sha256:be8f8317f71a561d4c77dbcbd81ee5caacad3c68305159f3d49ea5a1c1be81fc",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/help_circle_b72c98fd1e.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/help_circle_b72c98fd1e_dde4802f.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150233Z&X-Amz-Expires=86400&X-Amz-Signature=b6a47cdba50351e5cf7635b3334641d84b38f76c586502586e65fdc2024920e1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/help_circle_b72c98fd1e_dde4802f.svg",
+      "localPath": "assets/icons/help_circle_b72c98fd1e.svg",
+      "mime": "image/svg+xml",
+      "size": 344,
+      "hash": "sha256:dde4802f11e45c77c019b6e460217b5754acadebf963778377bff1b10c77932b",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/not_synced_e9120f9098.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/not_synced_e9120f9098_9f45a445.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150233Z&X-Amz-Expires=86400&X-Amz-Signature=bfad2f75a1ba27e4cad555280ea78c451838695b842ceca7637c52c9c2ca6213&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/not_synced_e9120f9098_9f45a445.svg",
+      "localPath": "assets/icons/not_synced_e9120f9098.svg",
+      "mime": "image/svg+xml",
+      "size": 963,
+      "hash": "sha256:9f45a445946bf6c636eb5caa7cdf5c37e6bfe63c457e8b36d32010d78e247d40",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/package_00c84a4248.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/package_00c84a4248_59f35978.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150234Z&X-Amz-Expires=86400&X-Amz-Signature=7f053989ff5b48be690f63ae4f05f03b4ba29fc9d7b5c45f984efc3faf2d1425&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/package_00c84a4248_59f35978.svg",
+      "localPath": "assets/icons/package_00c84a4248.svg",
+      "mime": "image/svg+xml",
+      "size": 597,
+      "hash": "sha256:59f3597800487eeb618caaf2aea358ce2df9f4fbf805af39f5c1af2f2e57b5b8",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/setting_07_331405a038.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/setting_07_331405a038_35b33a2a.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150234Z&X-Amz-Expires=86400&X-Amz-Signature=6e9a63b58149a4452b693e8806e3ab524be3b42b0293b93b879b858ebb1e54d9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/setting_07_331405a038_35b33a2a.svg",
+      "localPath": "assets/icons/setting_07_331405a038.svg",
+      "mime": "image/svg+xml",
+      "size": 1264,
+      "hash": "sha256:35b33a2a27a9f4f189643ca95db9749c76ad66e068491483caced7dd5f2ceecd",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/token_square_37899e3cab.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/token_square_37899e3cab_f6b27873.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150234Z&X-Amz-Expires=86400&X-Amz-Signature=b4738530267accc7da5e74b09bcfffb4e7cc6f5a77e1bb5671f54da17c591a7d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/token_square_37899e3cab_f6b27873.svg",
+      "localPath": "assets/icons/token_square_37899e3cab.svg",
+      "mime": "image/svg+xml",
+      "size": 728,
+      "hash": "sha256:f6b27873fcaf2b4408eec65c15ae80504b3f89cff6b8b3c0434179fb8b975d7e",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/user_circle_4af5575910.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/user_circle_4af5575910_4d1f4974.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150234Z&X-Amz-Expires=86400&X-Amz-Signature=c4486708ff17ffa58897f2b073cd41e3dfe538c7e13424c7853f3546bc2ab87e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/user_circle_4af5575910_4d1f4974.svg",
+      "localPath": "assets/icons/user_circle_4af5575910.svg",
+      "mime": "image/svg+xml",
+      "size": 348,
+      "hash": "sha256:4d1f49743a52abb7642fe5b26ba03f7aba17b86e5ad7f863a7fdb19dc1f2d270",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    },
+    "icons/workflow_circle_03_a7f4c3179b.svg": {
+      "url": "https://minio-uwsccoo8o84oswk4w0ss844g.studio-virtuos.com/opensystem-assets/opensystem/opensystem-core/icons/workflow_circle_03_a7f4c3179b_4df0edee.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=dEKsOVnlg4WBmJ21%2F20260110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260110T150234Z&X-Amz-Expires=86400&X-Amz-Signature=989b7da9f1b4807a317794973ee27d49bfa3b2bff073929dc624733c3048ad9c&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "s3Key": "opensystem/opensystem-core/icons/workflow_circle_03_a7f4c3179b_4df0edee.svg",
+      "localPath": "assets/icons/workflow_circle_03_a7f4c3179b.svg",
+      "mime": "image/svg+xml",
+      "size": 632,
+      "hash": "sha256:4df0edee2f45e72943a5419b9d930e61b862027b928a0003e9eca771001679ec",
+      "width": 150,
+      "height": 150,
+      "assetType": "icon"
+    }
+  },
+  "categories": {
+    "other": {
+      "count": 1,
+      "totalSize": 1494319
+    },
+    "image": {
+      "count": 2,
+      "totalSize": 2322597
+    },
+    "icon": {
+      "count": 13,
+      "totalSize": 7909
+    },
+    "font": {
+      "count": 20,
+      "totalSize": 425912
+    }
+  }
 }
